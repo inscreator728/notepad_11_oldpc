@@ -1,0 +1,3 @@
+// Embeds app.manifest as RT_MANIFEST (id 1) so the executable gets
+// comctl32 v6 theming, the supportedOS entries and system DPI awareness.
+1 24 "app.manifest"
